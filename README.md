@@ -50,7 +50,7 @@ A secondhand market for Ewha students only. Flask + Firebase: sign-up, listings 
 </td>
 <td width="50%" valign="top">
 
-### [Final_9radu](https://github.com/EWHA-VR-2026Q1/Final_9radu)
+### [Team_9radu](https://github.com/hannah0125/Team_9radu)
 VR course · 2026 · Team of 4
 
 <img src="images/vr.png" width="100%" alt="Final_9radu">
